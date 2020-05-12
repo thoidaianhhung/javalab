@@ -1,0 +1,19 @@
+1578919522221	Encapsulate field 'DepartmentName'
+1578919566476	Encapsulate field 'departmentName'
+1578919680444	Encapsulate field 'departmentName'
+1578919708540	Encapsulate field 'departmentName'
+1578920257577	Encapsulate field 'employeeId'
+1578920274329	Encapsulate field 'employeeName'
+1578920283686	Encapsulate field 'employeeAge'
+1578920294589	Encapsulate field 'workday'
+1578920304585	Encapsulate field 'vocationDays'
+1578920316781	Encapsulate field 'salary'
+1578921766395	Encapsulate field 'DepartmentId'
+1578921777932	Encapsulate field 'DepartmentNumber'
+1578921899422	Encapsulate field 'departmentNumber'
+1578921925508	Encapsulate field 'departmentId'
+1578922635050	Encapsulate field 'title'
+1578969365369	Convert local variable 'company' to field
+1578971666779	Delete element
+1578976374415	Inline local variable 'employeeList'
+1578988507739	Convert local variable 'employee' to field

@@ -1,0 +1,38 @@
+package main;
+
+import models.IntToString;
+import models.Welcome;
+
+public class Solution {
+  public static void main(String[] args) {
+    
+     Welcome hello = new Welcome(); hello.hello();
+     
+    /*
+     * StdinAndStdout scanner = new StdinAndStdout(); scanner.scanner();
+     */
+    /*
+     * IfElse name = new IfElse(); name.ifElse();
+     */
+    /*
+     * OutputFormatting output = new OutputFormatting(); output.output();
+     */
+    /*
+     * Loops loops = new Loops(); loops.loops();
+     */
+    /*
+     * DataTypes data = new DataTypes(); data.dataTypes();
+     */
+    IntToString name = new IntToString();
+    name.forbidExit();
+  }
+  /*
+   * static int B, H; static boolean flag = true; static {
+   * 
+   * @SuppressWarnings("resource") Scanner input = new Scanner(System.in); B =
+   * Integer.parseInt(input.nextLine()); H = Integer.parseInt(input.nextLine());
+   * if (B > 0 && H > 0) { flag = true; } else {
+   * System.out.println("java.lang.Exception: Breadth and height must be positive"
+   * ); flag = false; } }
+   */
+}

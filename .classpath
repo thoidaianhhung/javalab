@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Algorithm/src"/>
+	<classpathentry kind="src" path="ArrayMethods/src"/>
+	<classpathentry kind="src" path="Bai2/src"/>
+	<classpathentry kind="src" path="Bai3/src"/>
+	<classpathentry kind="src" path="CollectionJava/src"/>
+	<classpathentry kind="src" path="Debug/src"/>
+	<classpathentry kind="src" path="DocumentObject/src"/>
+	<classpathentry kind="src" path="EncapsulationInJava/src"/>
+	<classpathentry kind="src" path="Hackerrank/src"/>
+	<classpathentry kind="src" path="IfElse/src"/>
+	<classpathentry kind="src" path="JavaAdvanced/src"/>
+	<classpathentry kind="src" path="JavaAdvancedVisitorPattern/src"/>
+	<classpathentry kind="src" path="JavaBasics/src"/>
+	<classpathentry kind="src" path="JavaFactoryPattern/src"/>
+	<classpathentry kind="src" path="Lab1_Bai1/src"/>
+	<classpathentry kind="src" path="Polymorphic/src"/>
+	<classpathentry kind="src" path="PracticeJava/src"/>
+	<classpathentry kind="src" path="PRO192x_Project1_hungnvse00535x@funix.edu.vn/src"/>
+	<classpathentry kind="src" path="PRO192x_Project2_hungnvse00535x@funix.edu.vn/src"/>
+	<classpathentry kind="src" path="PRO192x_Project3_hungnvse00535x@funix.edu.vn/src"/>
+	<classpathentry kind="src" path="PRO192x_Project4_hungnvse00535x@funix.edu.vn/src"/>
+	<classpathentry kind="src" path="Test/src"/>
+	<classpathentry kind="src" path="VisitorDesignPattern/src"/>
+	<classpathentry kind="output" path="Algorithm/bin"/>
+</classpath>
